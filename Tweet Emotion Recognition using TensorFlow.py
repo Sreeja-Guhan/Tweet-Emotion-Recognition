@@ -12,9 +12,6 @@ Original file is located at
 
 Dataset: [Tweet Emotion Dataset](https://github.com/dair-ai/emotion_dataset)
 
-This is a starter notebook for the guided project [Tweet Emotion Recognition with TensorFlow](https://www.coursera.org/projects/tweet-emotion-tensorflow)
-
-A complete version of this notebook is available in the course resources
 
 ---
 
@@ -28,7 +25,6 @@ A complete version of this notebook is available in the course resources
 
 !pip install nlp
 
-# Commented out IPython magic to ensure Python compatibility.
 # %matplotlib inline
 
 import tensorflow as tf
